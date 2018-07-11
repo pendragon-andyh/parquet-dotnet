@@ -1,6 +1,6 @@
 # Working with DataSet
 
-Internally Parquet represents data in columnar format, however most of the interaction workflows are easier with row-based data, therefore Parquet.Net transorms data on read to row-based format and transforms back to columnar when writing to Parquet.
+Internally Parquet represents data in columnar format, however most of the interaction workflows are easier with row-based data, therefore Parquet.Net transforms data on read to row-based format and transforms back to columnar when writing to Parquet.
 
 ## Creating a DataSet
 
